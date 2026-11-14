@@ -1,4 +1,5 @@
 # try
 
 Belajar Git dan Lazygit dengan nvim
-asodaiosd
+
+moga bener conflictnya
