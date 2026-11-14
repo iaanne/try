@@ -1,3 +1,5 @@
 # try
 
 Belajar Git dan Lazygit dengan nvim
+
+jsdiajdaskdskj
